@@ -1,0 +1,2 @@
+1. pdf + jupyter notebook is preferable 
+2. another option is code + report Word/Latex
